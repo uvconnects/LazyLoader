@@ -24,7 +24,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## How to Change your local host
 
-In your angular-cli.json you can change your localhost.
+In your angular.json you can change your localhost.
 
 ## Further help
 
